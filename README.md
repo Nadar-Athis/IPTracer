@@ -1,2 +1,2 @@
 # IPTracer
-It's a Tool Mainly used for Tracking Ip address.
+A Tool used for Getting Approximate Location of the IpAddress
