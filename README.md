@@ -1,2 +1,2 @@
 # IpInfoga
-A Tool used for Getting Approximate Location of the IpAddress
+A Tool used for Gathering IpAddress Information 
