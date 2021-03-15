@@ -7,3 +7,5 @@ It takes the Data from an API(Application programming interface)endpoint.
 http:ip-api.com/json it is an Online IpTracker Which shows the Information in the form of json,xml etc.
 This tool i.e IpInfoga Uses an json api endpoint which will directly communicate with the ip-api.com 
 
+Usage:-
+sudo apt-get install python3
